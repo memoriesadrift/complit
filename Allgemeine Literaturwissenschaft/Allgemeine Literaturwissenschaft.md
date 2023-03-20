@@ -1,0 +1,5 @@
+- **[[Was ist Literaturwissenschaft|Was ist überhaupt „allgemeine“ Literaturwissenschaft?]]
+- **[[Gegenstand der Literaturwissenschaft|Was ist der Gegenstand der allgemeinen Literaturwissenschaft?]]  
+- **[[Literaturwissenschaftliche Fragestellungen|Wie sehen literaturwissenschaftliche Fragestellungen aus?]]
+- [[Literaturwissenschaftliche Methodologie]]
+- [[Literaturgeschichte]]

@@ -1,0 +1,1 @@
+Geschichten nicht für Prüfung unbedingt notwendig -- wichtig zu wissen was wo zu finden ist
