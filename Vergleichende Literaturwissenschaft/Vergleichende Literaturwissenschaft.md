@@ -37,4 +37,3 @@ Es ist wichtig zwischen struktrurellen Ähnlichkeiten und Einfluss zu unterschei
 ##### Wichtig: Im Definition fehlt die [[Intermedialität in der Komparatistik|Intermedialität]]
 
 Das deutschsprachige Raum ist eher Konservativ und untersucht oft vor allem Bücher.
-
